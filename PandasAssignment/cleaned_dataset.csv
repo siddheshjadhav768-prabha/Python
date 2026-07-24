@@ -1,0 +1,6 @@
+Name,Age,Gender,Marks,Attendance,Purchased,City_Delhi,City_Mumbai,City_Pune,Course_AI,Course_Data Science,Course_Python
+Amit,20.0,1,85.0,92,1,0,0,1,0,0,1
+Priya,21.0,0,90.0,95,1,0,1,0,1,0,0
+Rahul,19.0,1,72.0,88,0,0,0,1,0,0,1
+Sneha,22.0,0,78.0,91,1,1,0,0,0,1,0
+Arjun,20.4,1,82.0,75,0,0,1,0,1,0,0

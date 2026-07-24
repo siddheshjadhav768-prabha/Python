@@ -1,0 +1,14 @@
+Student_ID,Name,Age,Gender,City,Course,Attendance,Marks,Purchased
+101,Raj,21.0,Male,Pune,Python,90.0,85.0,Yes
+102,Amit,22.0,Male,Mumbai,AI,80.0,75.0,No
+103,Priya,20.0,Female,Nashik,Python,95.0,92.0,Yes
+104,Sneha,23.0,Female,Pune,Data Science,88.0,81.0,Yes
+105,Rahul,21.0,Male,Mumbai,AI,75.0,65.0,No
+106,Pooja,22.0,Female,Pune,Python,98.0,96.0,Yes
+107,Karan,20.0,Male,Nashik,Data Science,82.0,79.0,No
+108,Neha,21.0,Female,Pune,AI,91.0,89.0,Yes
+109,Akash,24.0,Male,Mumbai,Python,85.0,72.0,No
+110,Komal,23.0,Female,Pune,Data Science,96.0,94.0,Yes
+111,Vikas,,Male,Pune,Python,90.0,,Yes
+112,Riya,22.0,Female,Mumbai,AI,,85.0,No
+113,Raj,21.0,Male,Pune,Python,90.0,85.0,Yes
